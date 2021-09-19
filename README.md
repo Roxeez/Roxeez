@@ -1,5 +1,5 @@
 # Roxeez
-Self-taught developer living in France who mainly creates applications related to video games.
+Self-taught developer living in France who mainly create video games related apps.
 
 ## Social
 
