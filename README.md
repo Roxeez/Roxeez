@@ -9,4 +9,4 @@ Currently working for **Les Mousquetaires** as member of the **STIME**.
 <img src="https://img.shields.io/badge/-Roxeez%233662-%232c2f33?style=flat-square&logo=discord" height="30">
 
 ## Statistics
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=roxeez&theme=react&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/> <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxeez&layout=compact&theme=react&hide_border=true&langs_count=6"/>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxeez&layout=compact&theme=react&hide_border=true&langs_count=6"/>
