@@ -1,6 +1,5 @@
 # Roxeez
 Self-taught developer living in France who mainly create video games related apps.  
-Currently working for **Les Mousquetaires** as member of the **STIME**.
 
 ## Social
 
