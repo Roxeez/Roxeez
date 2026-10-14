@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="40" viewBox="0 0 794 40" role="img" aria-label="C#, C++, Java, Unity, PostgreSQL, RabbitMQ, Docker">
+  <g transform="translate(1 1)">
+    <rect width="71" height="38" rx="19.0" fill="#f6f8fa" stroke="#d1d9e0"/>
+    <circle cx="21.0" cy="19.0" r="5.0" fill="#9b4f96"/>
+    <text x="36" y="24.6" font-family="'Cascadia Code', 'SF Mono', Consolas, 'Liberation Mono', monospace" font-size="16" fill="#1f2328">C#</text>
+  </g>
+  <g transform="translate(82 1)">
+    <rect width="81" height="38" rx="19.0" fill="#f6f8fa" stroke="#d1d9e0"/>
+    <circle cx="21.0" cy="19.0" r="5.0" fill="#00599c"/>
+    <text x="36" y="24.6" font-family="'Cascadia Code', 'SF Mono', Consolas, 'Liberation Mono', monospace" font-size="16" fill="#1f2328">C++</text>
+  </g>
+  <g transform="translate(173 1)">
+    <rect width="91" height="38" rx="19.0" fill="#f6f8fa" stroke="#d1d9e0"/>
+    <circle cx="21.0" cy="19.0" r="5.0" fill="#e76f00"/>
+    <text x="36" y="24.6" font-family="'Cascadia Code', 'SF Mono', Consolas, 'Liberation Mono', monospace" font-size="16" fill="#1f2328">Java</text>
+  </g>
+  <g transform="translate(274 1)">
+    <rect width="100" height="38" rx="19.0" fill="#f6f8fa" stroke="#d1d9e0"/>
+    <circle cx="21.0" cy="19.0" r="5.0" fill="#8b949e"/>
+    <text x="36" y="24.6" font-family="'Cascadia Code', 'SF Mono', Consolas, 'Liberation Mono', monospace" font-size="16" fill="#1f2328">Unity</text>
+  </g>
+  <g transform="translate(384 1)">
+    <rect width="149" height="38" rx="19.0" fill="#f6f8fa" stroke="#d1d9e0"/>
+    <circle cx="21.0" cy="19.0" r="5.0" fill="#336791"/>
+    <text x="36" y="24.6" font-family="'Cascadia Code', 'SF Mono', Consolas, 'Liberation Mono', monospace" font-size="16" fill="#1f2328">PostgreSQL</text>
+  </g>
+  <g transform="translate(543 1)">
+    <rect width="130" height="38" rx="19.0" fill="#f6f8fa" stroke="#d1d9e0"/>
+    <circle cx="21.0" cy="19.0" r="5.0" fill="#ff6600"/>
+    <text x="36" y="24.6" font-family="'Cascadia Code', 'SF Mono', Consolas, 'Liberation Mono', monospace" font-size="16" fill="#1f2328">RabbitMQ</text>
+  </g>
+  <g transform="translate(683 1)">
+    <rect width="110" height="38" rx="19.0" fill="#f6f8fa" stroke="#d1d9e0"/>
+    <circle cx="21.0" cy="19.0" r="5.0" fill="#2496ed"/>
+    <text x="36" y="24.6" font-family="'Cascadia Code', 'SF Mono', Consolas, 'Liberation Mono', monospace" font-size="16" fill="#1f2328">Docker</text>
+  </g>
+</svg>
